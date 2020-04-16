@@ -5,7 +5,7 @@ import { transitions, positions, Provider as AlertProvider } from 'react-alert';
 import AlertTemplate from 'react-alert-template-basic';
 
 import './style/bootstrap.css';
-import './style/loader.css';
+
 import './style/index.css';
 import './style/online-game.css';
 import './style/online-mode.css';
